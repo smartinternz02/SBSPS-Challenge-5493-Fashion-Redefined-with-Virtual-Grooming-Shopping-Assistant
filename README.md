@@ -21,9 +21,11 @@ Novelty/Uniqueness
 -> suggestions based on new trends in the market 
 -> Updates on new offers and ongoing trends 
 
-![Alt](images/ibm1.jpg)
+![Alt](Images/ibm5.jpeg)
 
-![Alt](images/ibm2.jpg)
+![Alt](Images/ibm4.jpeg)
+
+![Alt](Images/ibm7.jpeg)
 
 # *Business Impact*
 *******************
@@ -33,9 +35,11 @@ The application if deployed, would be user friendly with the implementation of c
 
 This would have a wide scope as most of the clothing brands and popular E-commerce apps like Amazon, Ebay and Shein would profit by the variety of choices they provide to customers using the virtual grooming application. Not only that, the user would have the platform to realize what type of fashionable clothing would suit him/her the best, and prefer the recommended clothes hopefully.
 
-![Alt](images/ibm3.jpg)
+![Alt](Images/ibm6.jpeg)
 
-![Alt](images/ibm4.jpg)
+![Alt](Images/ibm2.JPG)
+
+![Alt](Images/ibm8.jpeg)
 
 # *Scope of the work*
 *********************
@@ -45,8 +49,12 @@ We prefer to obtain the users age range to produce the best solution after proce
 
 This would have a wide scope as most of the clothing brands and popular E-commerce apps like Amazon, Ebay and Shein would profit by the variety of choices they provide to customers using the virtual grooming application. Not only that, the user would have the platform to realize what type of fashionable clothing would suit him/her the best, and prefer the recommended clothes hopefully.
 
-![Alt](images/ibm5.jpg)
+![Alt](Images/ibm3.JPG)
 
-![Alt](images/ibm6.jpg)
+![Alt](Images/ibm1.JPG)
+
+![Alt](Images/ibm9.jpeg)
+
+Project Description Video : https://youtu.be/tOZpYbL3F9o
 
 # *Thank you*
